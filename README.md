@@ -1,2 +1,2 @@
-# js-starter-template
- Start Template for JS Programs
+# canvas-basic-template
+ Start Template for Canvas Programs
